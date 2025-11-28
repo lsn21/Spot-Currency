@@ -3,6 +3,7 @@
 //  Spot Currency
 //
 //  Created by Siarhei Lukyanau on 25.11.25.
+//  telegram: @LSN777, email: LSN21@YA.RU
 //
 
 import SwiftUI
